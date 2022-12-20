@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hrsys_ssm_iframe:war">
+    <output-path>$PROJECT_DIR$/complete/hrsys_ssm_iframe/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hrsys_ssm_iframe</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hrsys_ssm_iframe.war">
+      <element id="artifact" artifact-name="hrsys_ssm_iframe:war exploded" />
+    </root>
+  </artifact>
+</component>

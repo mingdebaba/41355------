@@ -1,0 +1,4 @@
+inmysql shell
+\connect root@localhost
+password :123456
+create DATABASE hrsys3

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring boot Vue.iml" filepath="$PROJECT_DIR$/.idea/Spring boot Vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_cache_redis/hrsys_cache_redis.iml" filepath="$PROJECT_DIR$/complete/hrsys_cache_redis/hrsys_cache_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_jpa/hrsys_jpa.iml" filepath="$PROJECT_DIR$/complete/hrsys_jpa/hrsys_jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_restful/hrsys_restful.iml" filepath="$PROJECT_DIR$/complete/hrsys_restful/hrsys_restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_restful_security/hrsys_restful_security.iml" filepath="$PROJECT_DIR$/complete/hrsys_restful_security/hrsys_restful_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_restful_security_cros/hrsys_restful_security_cros.iml" filepath="$PROJECT_DIR$/complete/hrsys_restful_security_cros/hrsys_restful_security_cros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_restful_security_jwt/hrsys_restful_security_jwt.iml" filepath="$PROJECT_DIR$/complete/hrsys_restful_security_jwt/hrsys_restful_security_jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_restful_security_quartz/hrsys_restful_security_quartz.iml" filepath="$PROJECT_DIR$/complete/hrsys_restful_security_quartz/hrsys_restful_security_quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_restful_security_task/hrsys_restful_security_task.iml" filepath="$PROJECT_DIR$/complete/hrsys_restful_security_task/hrsys_restful_security_task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_security/hrsys_security.iml" filepath="$PROJECT_DIR$/complete/hrsys_security/hrsys_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_security1/hrsys_security1.iml" filepath="$PROJECT_DIR$/complete/hrsys_security1/hrsys_security1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_security2/hrsys_security2.iml" filepath="$PROJECT_DIR$/complete/hrsys_security2/hrsys_security2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_security3/hrsys_security3.iml" filepath="$PROJECT_DIR$/complete/hrsys_security3/hrsys_security3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_spring_rest_docs/hrsys_spring_rest_docs.iml" filepath="$PROJECT_DIR$/complete/hrsys_spring_rest_docs/hrsys_spring_rest_docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_springboot/hrsys_springboot.iml" filepath="$PROJECT_DIR$/complete/hrsys_springboot/hrsys_springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_ssm/hrsys_ssm.iml" filepath="$PROJECT_DIR$/complete/hrsys_ssm/hrsys_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_ssm_ajax/hrsys_ssm_ajax.iml" filepath="$PROJECT_DIR$/complete/hrsys_ssm_ajax/hrsys_ssm_ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_ssm_iframe/hrsys_ssm_iframe.iml" filepath="$PROJECT_DIR$/complete/hrsys_ssm_iframe/hrsys_ssm_iframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_swagger/hrsys_swagger.iml" filepath="$PROJECT_DIR$/complete/hrsys_swagger/hrsys_swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_thymeleaf/hrsys_thymeleaf.iml" filepath="$PROJECT_DIR$/complete/hrsys_thymeleaf/hrsys_thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_upload/hrsys_upload.iml" filepath="$PROJECT_DIR$/complete/hrsys_upload/hrsys_upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/hrsys_vue/hrsys_vue.iml" filepath="$PROJECT_DIR$/complete/hrsys_vue/hrsys_vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/test_jpa/test_jpa.iml" filepath="$PROJECT_DIR$/complete/test_jpa/test_jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete/test_redis/test_redis.iml" filepath="$PROJECT_DIR$/complete/test_redis/test_redis.iml" />
+    </modules>
+  </component>
+</project>

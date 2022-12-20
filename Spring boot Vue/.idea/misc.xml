@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/complete/hrsys_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/complete/hrsys_ssm_ajax" />
+    <file type="web" url="file://$PROJECT_DIR$/complete/hrsys_ssm_iframe" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/complete/test_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_vue/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/test_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_upload/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_restful/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_security/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_ssm_ajax/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_security1/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_security2/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_security3/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_ssm_iframe/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_cache_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_restful_security/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_spring_rest_docs/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_restful_security_jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_restful_security_cros/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_restful_security_task/pom.xml" />
+        <option value="$PROJECT_DIR$/complete/hrsys_restful_security_quartz/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hrsys_ssm_iframe:war exploded">
+    <output-path>$PROJECT_DIR$/complete/hrsys_ssm_iframe/target/hrsys_ssm_iframe</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>hrsys_ssm_iframe</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hrsys_ssm_iframe" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/complete/hrsys_ssm_iframe/target/hrsys_ssm_iframe/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="hrsys_ssm_iframe/web/Web" />
+    </root>
+  </artifact>
+</component>
